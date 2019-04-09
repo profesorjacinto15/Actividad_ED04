@@ -7,7 +7,7 @@ public class Main {
         operativa_cuenta();
     }
 
-    public static void operativa_cuenta() {
+    public static void operativa_cuenta(float operativa_cuenta) {
         CCuenta cuenta1;
         double saldoActual;
 
